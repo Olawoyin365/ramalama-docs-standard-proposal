@@ -1833,9 +1833,9 @@ Warning message here
 ## Acknowledgments
 
 This standard synthesizes best practices from:
-- Fedora Documentation Team
-- Docusaurus community
-- RamaLama contributors
+- Fedora Documentation Guidelines
+- Docusaurus Formatting Guidelines
+- RamaLama Documentation Styles
 - Industry technical writing standards
 
 Special thanks to the Outreachy mentors and fellow applicants for collaborative feedback and refinement.
