@@ -2,7 +2,6 @@
 
 **Version:** 1.0  
 **Status:** Proposed  
-**Author:** Ibrahim Olawoyin
 **Date:** April 2, 2026  
 **Purpose:** Establish consistent, high-quality documentation standards for all editor for the RamaLama project
 
